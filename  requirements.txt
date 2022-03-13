@@ -1,0 +1,4 @@
+- Python 3.9.7
+- Flask 2.0.1
+- MySql 8.0.28
+- myslq connector
